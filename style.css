@@ -1,0 +1,441 @@
+header
+{
+    width: 1400px;
+    height: 500px;
+    padding-left: 50px;
+    margin: -10px;
+    padding-bottom: 190px;
+    background-image: url("image_acceuil.png");
+    background-attachment: fixed;
+}
+nav,ul
+{
+    list-style-type: none;
+    padding: 10px;
+}
+.li1
+{
+    float: left;
+    font-size: 52px;
+    padding-right: 300px;
+    padding-left: 100px;
+    margin: -15px;
+    color: yellow;
+    font-family: Palace Script MT;
+    font-style: italic;
+}
+.li2 a
+{
+    float: left;
+    font-size: 15px;
+    padding-right: 80px;
+    color: white;
+    text-decoration:none ;
+    font-weight: bold;
+}
+.li3 a
+{
+    float: left;
+    font-size: 15px;
+    padding-right: 80px;
+    color: white;
+    text-decoration:none ;
+    font-weight: bold;
+}
+.li4 a
+{
+    float: left;
+    font-size: 15px;
+    padding-right: 80px;
+    color: white;
+    text-decoration:none ;
+    font-weight: bold;
+}
+.li5 a
+{
+    float: left;
+    font-size: 15px;
+    padding-right: 80px;
+    color: white;
+    text-decoration:none ;
+    font-weight: bold;
+}
+.li6 a
+{
+    float: left;
+    font-size: 15px;
+    padding-right: 80px;
+    color: white;
+    text-decoration:none ;
+    font-weight: bold;
+}
+
+.titre1
+{
+    display: block;
+    margin-top: 150px;
+}
+.titre1 h4
+{
+    font-style: italic;
+    color: white;
+    margin-left: 400px;
+    font-size: 40px;
+}
+.titre1 h1
+{
+    font-size: 30px;
+    font-weight: bold;
+    font-size: 65px;
+    margin-left: 220px;
+    color:white
+}
+.titre1 .bouton a
+{
+    width: 250px;
+    height: 90px;
+    background-color:gold;
+    margin-left: 480px ;
+    color:#fff;
+    font-size: 20px;
+    border-style:solid;
+    border-color:gold;
+    border-radius: 3%;
+    border-width: 20px;
+    text-decoration: none;
+}
+/*.titre1 button h4
+{
+
+}*/
+.opt_serv
+{
+    text-align: center;
+    font-weight: bold;
+}
+.sttr_serv
+{
+    text-align: center;
+    color: darkgray;
+    font-size: 20px;
+}
+/******************   section 1   *************************************************/
+.sect1
+{
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+.sect1 div
+{
+    display: inline-block;
+    width: 25%;
+    text-align: center;
+    margin-left: 80px;
+}
+.sect1 div img
+{
+    width: 100px;
+    height: 100px;
+}
+.sect1 h1
+{
+    margin-left: 600px;
+}
+.sect1 h2
+{
+    color: grey;
+    margin-left: 540px;
+    font-size: 15px;
+}
+.sect1 p
+{
+    text-align: center;
+    color: grey;
+}
+/******************   section 2   *************************************************/
+.sect2
+{
+    background-color: lavender;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 1500px;
+    margin-left: -10px;
+}
+.sect2 h1
+{
+    margin-left: 550px;
+    font-size: 30px;
+}
+.sect2 h2
+{
+    margin-left: 550px;
+    font-size: 15px;
+    color: gray;
+}
+.sect2 div
+{
+    display: inline-block;
+    width: 22%;
+    margin-top:30px;
+    margin-bottom:30px;
+    margin-left:80px;
+}
+.sect2 div img
+{
+    width: 350px;
+    height: 350px;
+    margin-left: 20px;
+}
+.sect2 div div
+{
+    text-align: center; 
+    font-size: 15px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    background-color: white;
+    width: 347px;
+    margin-top: -3px;
+    margin-left: 17px;
+    
+}
+/******************   section 3   *************************************************/
+.sect3
+{
+    margin-top: 20px;
+    margin-bottom: -320px;
+}
+.sect3 h1
+{
+    margin-left: 600px;
+    font-size: 30px;
+}
+.sect3 h4
+{
+    margin-left: 550px;
+    font-size: 15px;
+    color: gray;
+}
+.sect3 div div .tvert1
+{
+    background-color:gainsboro;
+    width: 2px;
+    height: 200px;
+    margin-left: 690px;
+    margin-top: -410px;
+}
+.sect3 div div .tvert2
+{
+    background-color:gainsboro;
+    width: 2px;
+    height: 400px;
+    margin-left: 690px;
+    margin-top: -410px;
+}
+.sect3 div div
+{
+    margin-top: -427px;
+}
+.sect3 div div div div
+{
+    text-align: right;
+    margin-right: 850px;
+    margin-top: 70px;
+}
+.sect3 div div img
+{
+    display: inline-flex;
+    width: 270px;
+    height: 270px;
+    margin-left: 550px;
+    margin-right: auto;
+    margin-top: 300px;
+    margin-bottom: 350px;
+    padding-top: 350px;
+}
+.sect3 div div div h3
+{
+    margin-top: -130px;
+    margin-left: 150px;
+}
+.sect3 div div div p
+{
+    color:gray;
+}
+.sect3 div div div div div
+{
+    text-align:left;
+    margin-left: 730px;
+    width: 400px;
+    margin-top: 20px;
+}
+.sect3 div div div div div h3
+{
+    margin-top: -100px;
+}
+.sect3 div div div div div p
+{
+    margin-left: 150px;
+    margin-top: -610px;
+}
+.sect3 div div div img
+{
+    margin-top: 270px;
+}
+/******************************** section 4   *********************************************/
+.sect4
+{
+    background-color: lavender;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 1500px;
+    margin-left: -10px;
+}
+.sect4 h1
+{
+    margin-left: 520px;
+    font-size: 30px;
+}
+.sect4 h4
+{
+    margin-left: 560px;
+    font-size: 15px;
+    color: gray;
+} 
+.sect4 div
+{
+    display: inline-block;
+    width: 25%;
+    margin-left: 60px;
+    text-align: center;
+}
+.sect4 div p
+{
+    color: gray;
+}
+.sect4 p
+{
+    color: gray;
+    text-align: center;
+}
+.sect4 ftitr
+{
+    color: gray;
+    text-align: center;
+    margin: 10px;
+}
+.sect4 div div
+{
+    width: 40px;
+    height: 40px;
+    padding-top: 5px;
+    padding:5px ;
+    margin-left: 10px;
+    display: inline-block;
+    text-align: center;
+    font-size: 37px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius:50%;
+    border-color: black;
+}
+.sect4 div div a
+{
+    color: black;
+}
+/*********************************  section 5   **************************************/
+.sect5
+{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.sect5 div
+{
+    display:inline-block;
+    width: 15%;
+    margin-left: 50px;
+}
+.sect5 div img
+{
+    width: 200px;
+    height: 80px;
+    margin-left: 150px;
+}
+/************************************  footer  *********************************/
+.formulaire
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-image: url(ctcimage.png);
+    width: 1500px;
+    margin-left: -10px;
+}
+.formulaire h1
+{ 
+    margin-left: 530px;
+    color: white;
+}
+.formulaire h3
+{
+    margin-left: 470px;
+    color: gainsboro
+}
+.formulaire form div
+{
+    margin-left: 300px;
+}
+.formulaire form div div
+{
+    margin-left: 340px;
+    margin-top: -175px;
+}
+.formulaire form div input
+{
+    width: 300px;
+    height: 35px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    border-radius: 2%;
+}
+.formulaire form div div textarea
+{
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    border-radius: 2%;
+}
+.formulaire .send a
+{
+    margin-left: 260px;
+    height: 50px;
+    color:white;
+    background-color: gold;
+    border-style: solid;
+    border-width: 10px;
+    border-color: gold;
+    border-radius: 3%;
+    width: 50px;
+    text-decoration: none;
+}
+.pied_page
+{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.pied_page div
+{
+    display: inline-block;
+}
+.pied_page div h4
+{
+    margin-left: 200px;
+    font-size: 16px;
+    margin-right: 80px;
+}
+.pied_page div a i
+{
+    color: black;
+    width: 50px;
+    font-size: 30px;
+}
